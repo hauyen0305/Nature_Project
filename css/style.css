@@ -538,7 +538,7 @@
 	right: 0;
 	display: flex; /*để canh giữa nội dung theo độ rộng sẵn có*/
 	align-items: center;
-	z-index: 50;
+	/* z-index: 50; */
 }
 
 .product-box .owl-carousel .owl-nav button.owl-next,
